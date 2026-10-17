@@ -1,0 +1,5 @@
+{
+  "name": "infomod",
+  "version": "0.1.0",
+  "description": "Adds one line under every answer: the full path of the current folder and your 5h / weekly rate-limit usage."
+}
